@@ -11,7 +11,7 @@ image_resource_group = "packer-image-repo-rg"
 location = "east us 2"
 
 # Name of the resource group for the VM
-resource_group_name = "terraform6-rg"
+resource_group_name = "terraform7-rg"
 
 # Required Tags
 tags = {
@@ -20,7 +20,7 @@ tags = {
 }
 
 # <= 15 charaters
-computer_name = "AZWAPPRD6"
+computer_name = "AZWAPPRD7"
 
 # Supported VM Family Sizes: Standard_F1s, Standard_E2s_v3, Standard_E4s_v3, Standard_E8s_v3, Standard_E16s_v3
 
