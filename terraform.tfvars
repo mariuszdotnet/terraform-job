@@ -16,7 +16,7 @@ resource_group_name = "terraform1-rg"
 # Required Tags
 tags = {
   CostCenter = "123"
-  UseCase    = "Test Server 2"
+  UseCase    = "Test Server 1"
 }
 
 # <= 15 charaters
